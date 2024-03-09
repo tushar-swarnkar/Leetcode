@@ -1,4 +1,4 @@
-public class DAY09_minComonVal {
+public class DAY09_minCommonVal {
     public static void main(String[] args) {
         int[] a = {1,2,3};
         int[] b = {2,4};
