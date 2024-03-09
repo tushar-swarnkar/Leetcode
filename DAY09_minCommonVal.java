@@ -1,4 +1,7 @@
 public class DAY09_minCommonVal {
+
+    // https://leetcode.com/problems/minimum-common-value/description/
+
     public static void main(String[] args) {
         int[] a = {1,2,3};
         int[] b = {2,4};
