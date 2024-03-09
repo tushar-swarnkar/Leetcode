@@ -1,6 +1,6 @@
 public class DAY01_maxOddBinNum {
 
-    // https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01  
+    // https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01
 
     public static void main(String[] args) {
         String s = "010";
