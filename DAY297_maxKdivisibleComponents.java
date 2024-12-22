@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Queue;
 
 public class DAY297_maxKdivisibleComponents {
-`
+
     public int maxKDivisibleComponents(int n, int[][] edges, int[] vals, int k) {
         if (n < 2)
             return 1;
